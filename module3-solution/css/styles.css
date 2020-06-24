@@ -18,3 +18,7 @@
 #content-chicken, #item-name{
 	padding: 10px;
 }
+
+body{
+	font-family: 'Ubuntu', sans-serif;
+}
