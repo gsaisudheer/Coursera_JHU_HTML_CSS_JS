@@ -1,0 +1,20 @@
+.nav > li{
+	background-color: #9fb2c5;
+}
+
+#menu-items a{
+	color: black;
+}
+
+#menu-items a:hover, #menu-items a:focus{
+	background-color: #aed4fb;
+}
+
+#item-chicken{
+	background-color: grey;
+	color: black;
+}
+
+#content-chicken, #item-name{
+	padding: 10px;
+}
