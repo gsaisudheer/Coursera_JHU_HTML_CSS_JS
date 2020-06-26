@@ -10,15 +10,26 @@
 	background-color: #aed4fb;
 }
 
-#item-chicken{
-	background-color: grey;
-	color: black;
-}
-
-#content-chicken, #item-name{
-	padding: 10px;
-}
-
 body{
 	font-family: 'Ubuntu', sans-serif;
 }
+
+.menu-section{
+	background-color: grey;
+	color: black;
+	margin-bottom: 20px;
+}
+
+.menu-description{
+	padding: 10px;
+}
+
+.menu-heading{
+	padding: 10px;
+}
+
+.link > a{
+	padding-left: 10px;
+	color: #114571;
+}
+
